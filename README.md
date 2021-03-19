@@ -87,15 +87,3 @@ Although these are the four major types of pollution lifestyle changes have caus
 
 # noise pollution
 
-<meta name="hostname" content="github.com">
-    <meta name="user-login" content="sujal-pandeyy15">
-
-
-      <meta name="expected-hostname" content="github.com">
-
-      <meta name="js-proxy-site-detection-payload" content="ZmVlNDk0NjM5NjRjNjJlMzJmZGE1M2ZiNDM1MzhjYmViZTk0YTlhYzEzYjY5ZGY3OTQ0YWVhZjZkYTYyZTIzOHx7InJlbW90ZV9hZGRyZXNzIjoiMTcxLjc2LjE1NC41MyIsInJlcXVlc3RfaWQiOiIyQkI5OjJDMDM6NUIxOTM5OjcxQjE3Njo2MDU0MUQ5MSIsInRpbWVzdGFtcCI6MTYxNjEyNTM1OCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
-
-    <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS,AUTOCOMPLETE_EMOJIS_IN_MARKDOWN_EDITOR">
-
-  <meta http-equiv="x-pjax-version" content="773b3b75268f0960bf3be469d61fa254c33aadaac61edf44b5ae1285dde3b65c">
-  
