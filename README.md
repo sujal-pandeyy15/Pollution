@@ -87,7 +87,15 @@ Although these are the four major types of pollution lifestyle changes have caus
 
 # noise pollution
 
-<link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/80298613/ws?session=eyJ2IjoiVjMiLCJ1Ijo4MDI5ODYxMywicyI6NjU5MDY1MjU4LCJjIjoxMzA1MzM3ODA0LCJ0IjoxNjE2MTI1MzU4fQ==--65643146ad15fa29547afbbfbfb09cd1a42ffc37c6a9d2b3fed3cd4990c86c45" data-refresh-url="/_alive" data-session-id="6f786989b0593f3b493e57a15597b0105ec7c63bc057c36eea9ea7177a10836c">
-    <link rel="shared-web-socket-src" href="/socket-worker-6832eced.js">
-  <link rel="sudo-modal" href="/sessions/sudo_modal">
+<meta name="hostname" content="github.com">
+    <meta name="user-login" content="sujal-pandeyy15">
+
+
+      <meta name="expected-hostname" content="github.com">
+
+      <meta name="js-proxy-site-detection-payload" content="ZmVlNDk0NjM5NjRjNjJlMzJmZGE1M2ZiNDM1MzhjYmViZTk0YTlhYzEzYjY5ZGY3OTQ0YWVhZjZkYTYyZTIzOHx7InJlbW90ZV9hZGRyZXNzIjoiMTcxLjc2LjE1NC41MyIsInJlcXVlc3RfaWQiOiIyQkI5OjJDMDM6NUIxOTM5OjcxQjE3Njo2MDU0MUQ5MSIsInRpbWVzdGFtcCI6MTYxNjEyNTM1OCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+
+    <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS,AUTOCOMPLETE_EMOJIS_IN_MARKDOWN_EDITOR">
+
+  <meta http-equiv="x-pjax-version" content="773b3b75268f0960bf3be469d61fa254c33aadaac61edf44b5ae1285dde3b65c">
+  
