@@ -87,11 +87,7 @@ Although these are the four major types of pollution lifestyle changes have caus
 
 # noise pollution
 
-<title>Explore GitHub</title>
-    <meta name="description" content="Explore is your guide to finding your next project, catching up with what’s trending, and connecting with the GitHub community.">
-    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
-  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
-  <meta property="fb:app_id" content="1401488693436528">
-  <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://github.githubassets.com/images/modules/explore/social.jpg" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Explore GitHub" /><meta name="twitter:description" content="Explore is your guide to finding your next project, catching up with what’s trending, and connecting with the GitHub community." />
-    <meta property="og:image" content="https://github.githubassets.com/images/modules/explore/social.jpg" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Explore GitHub" /><meta property="og:url" content="https://github.com/explore" /><meta property="og:description" content="Explore is your guide to finding your next project, catching up with what’s trending, and connecting with the GitHub community." />
+<link rel="assets" href="https://github.githubassets.com/">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/80298613/ws?session=eyJ2IjoiVjMiLCJ1Ijo4MDI5ODYxMywicyI6NjU5MDY1MjU4LCJjIjoxMzA1MzM3ODA0LCJ0IjoxNjE2MTI1MzU4fQ==--65643146ad15fa29547afbbfbfb09cd1a42ffc37c6a9d2b3fed3cd4990c86c45" data-refresh-url="/_alive" data-session-id="6f786989b0593f3b493e57a15597b0105ec7c63bc057c36eea9ea7177a10836c">
+    <link rel="shared-web-socket-src" href="/socket-worker-6832eced.js">
+  <link rel="sudo-modal" href="/sessions/sudo_modal">
