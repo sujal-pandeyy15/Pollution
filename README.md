@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-p {
-  color: red;
-  text-align: center;
-} 
-</style>
-</head>
-<body>
+
 
 <h1>My First website</h1>
 
