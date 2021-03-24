@@ -99,5 +99,5 @@ Often, the day after the festival of Diwali it is reported in the media how the 
 
 Although these are the four major types of pollution lifestyle changes have caused several other types of pollution as well such as Radioactive Pollution, Light Pollution among others. If a place ends up getting light in excess or in an unwanted amount, then it contributes to light pollution. Nowadays, several urban areas are facing unwanted glares in excess amounts. This is due to the fact that most Indian cities such as Mumbai, Bangalore, Delhi, Chennai, etc. have an active nightlife. We are living in the nuclear era. Since a lot of countries are developing their own nuclear devices, it has lead to an increase in the presence of radioactive substances in the atmosphere of the Earth.
 
-# noise pollution
+
 
